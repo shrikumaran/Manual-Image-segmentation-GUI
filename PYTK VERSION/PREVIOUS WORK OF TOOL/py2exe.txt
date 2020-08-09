@@ -1,0 +1,5 @@
+type this in cmd
+
+cd <folder where the file is>
+
+pyinstaller --onefile --windowed --icon=icon.ico task.py
