@@ -32,9 +32,9 @@
   - Removing faulty islands of segments with customized sizes.
   - Undo redo allowed 
   - Checkpoint of the previously segmented image scan be saved so that segmentation of a series of image data can be dine with breaks.
-  
-- Also the folders has the code to encrypt the data, so that if images have to be sent to the user in a encrypted way, it can be encryted as a numpy file such the the user opens the tool and Image loads by itself and the images need not be present seperately.
 
--Exe format of the tool available in the folder
+##### Also the folders has the code to encrypt the data, so that if images have to be sent to the user in a encrypted way, it can be encryted as a numpy file such the the user opens the tool and Image loads by itself and the images need not be present seperately.
 
-This tool is not restricted to ultrasound images alone. This can be used to generate segmented labels for any semantic segmentation project. 
+##### Exe format of the tool available in the folder
+
+##### This tool is not restricted to ultrasound images alone. This can be used to generate segmented labels for any semantic segmentation project. 
