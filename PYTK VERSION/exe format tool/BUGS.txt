@@ -1,0 +1,4 @@
+22/05
+
+-contour method for solid brush is a problem when you maake a closed polygon as the inners of the polygon also gets stored
+- window size problem with abdur, check our slack chats
