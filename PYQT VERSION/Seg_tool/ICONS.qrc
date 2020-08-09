@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="myicons">
+    <file>icon.ico</file>
+    <file>locked.webp</file>
+  </qresource>
+  <qresource prefix="image">
+    <file>image.png</file>
+  </qresource>
+</RCC>
